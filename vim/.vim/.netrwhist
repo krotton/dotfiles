@@ -1,7 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/home/krotton/Projects/Craftaway/craftaway'
-let g:netrw_dirhist_2='/home/krotton/.oh-my-zsh/plugins/gitfast'
-let g:netrw_dirhist_3='/home/krotton/Projects/LetThemDecide/src'
-let g:netrw_dirhist_4='/home/krotton/Projects/Craftaway/caevent'
-let g:netrw_dirhist_5='/Users/krotton/Projects/Craftserve/websockets/web/srvmgr'
